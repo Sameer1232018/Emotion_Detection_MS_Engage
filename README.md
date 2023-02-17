@@ -1,6 +1,6 @@
 # Real-time Emotion Detection
+![emotion_detection_example](https://user-images.githubusercontent.com/49482350/219740657-5e4bfe89-4f9f-47be-9d79-7e43894aa5f8.png)
 
-![Sample Emotion Detection Image](docs/images/emotion_detection_example.png)
 ## Abstract
 8 emotions detected in real-time with \~77% accuracy. Used: OpenCV, Python 3, Keras, Data Preprocessing, Deep Learning & Machine learning Techniques.
 
